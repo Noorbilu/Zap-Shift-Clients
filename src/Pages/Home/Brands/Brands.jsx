@@ -18,7 +18,7 @@ const Brands = () => {
             <h2 className='text-secondary font-bold text-2xl text-center mt-10 mb-5'>We've helped thousands of sales teams</h2>
         <Swiper
             loop={true}
-            slidesPerView={4}
+            slidesPerView={3}
             centeredSlides={true}
             spaceBetween={30}
             grabCursor={true}
